@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa09ac21d037a9444b1273154ecf2e37, type: 3}
+  m_Name: EventFortnite
+  m_EditorClassIdentifier: 
+  _Level: 2
+  _EventName: Videogames  Night!
+  _EventDescription: Young local streamer casts his first competitive fortnite match,
+    apparently the squad didnt warmed up and gets last place.
+  _GoodEndingEvent: later they accepted defeat, and moved on to another game.
+  _BadEndingEvent: Team captain (you) also got banned after insulting and screaming
+    racial slurs at his opponents.

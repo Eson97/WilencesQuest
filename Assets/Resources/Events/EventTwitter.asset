@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa09ac21d037a9444b1273154ecf2e37, type: 3}
+  m_Name: EventTwitter
+  m_EditorClassIdentifier: 
+  _Level: 3
+  _EventName: Toxic People on Twitter
+  _EventDescription: Twitter community harasses Young local streamer (you) for not
+    using pronounces and not being inclusive in social media
+  _GoodEndingEvent: after multiple alegations, he just ignored and continued happily
+    with his life with no social constructs
+  _BadEndingEvent: he later responded in a politically incorrect way and got fired
+    from his job

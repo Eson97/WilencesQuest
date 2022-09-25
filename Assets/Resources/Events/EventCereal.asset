@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa09ac21d037a9444b1273154ecf2e37, type: 3}
+  m_Name: EventCereal
+  m_EditorClassIdentifier: 
+  _Level: 1
+  _EventName: Cereal for breakfast
+  _EventDescription: Local man runs out of milk this morning while he was about to
+    eat his breakfast
+  _GoodEndingEvent: neighbors informed us that he destroyed his own refrigerator.
+  _BadEndingEvent: apparently he just walked to work with no breakfast.
